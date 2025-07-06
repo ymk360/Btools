@@ -1,0 +1,4 @@
+PyQt5==5.15.9
+requests==2.31.0
+bilibili-api-python==17.3.0
+clipboard==0.0.4
